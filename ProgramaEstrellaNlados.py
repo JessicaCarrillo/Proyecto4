@@ -15,7 +15,7 @@ if(a%2==0):
 else:
         t.title("ESTRELLA DE LADOS IMPARES")
         for x in range(1,a+1):
-                tess.forward(200)
+                tess.forward(100)
                 an = 360/2
                 ang = 180/a
                 angu=an+ang
